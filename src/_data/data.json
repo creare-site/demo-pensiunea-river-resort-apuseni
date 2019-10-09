@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "dragoi.bogdan1984@gmail.com",
+    "phone"          : "0762553463",
+    "address"        : "Nr. 27 A - Frasinet407066 Baisoara, Cluj.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "River Resort Baisoara",
+    "app_subtitle"   : "O locatie excelenta de cazare in Baisoara, Cluj.",
+
+    "seo_title"      : "River Resort Baisoara - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Baisoara, Cluj.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/river-resort-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-pensiunea-river-resort-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/riverresortbaisoara/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
