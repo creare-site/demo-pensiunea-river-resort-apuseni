@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![River Resort - Prezentare in format Gif.](https://raw.githubusercontent.com/creare-site/static/master/produse/river-resort-apuseni-intro.gif)
+![River Resort - Prezentare in format Gif.](https://raw.githubusercontent.com/creare-site/static/master/produse/pensiunea-river-resort-apuseni-intro.gif)
 
 <br />
 
