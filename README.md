@@ -11,7 +11,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 ## Informatii produs
 
 - Site de prezentare - River Resort
-- Live [DEMO](https://river-resort-apuseni.websitemarket.ro)
+- Live [DEMO](https://pensiunea-river-resort-apuseni.websitemarket.ro)
  
 <br />
 
